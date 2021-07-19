@@ -9,11 +9,17 @@ Stacks
 [CSS3]
 
 Running the project
+
 1️ > Install packages
+
 `npm install`  
+
 or  
+
 `yarn`
+
 2 > When installation is complete:
+
 `yarn start`
 
-[image](src/assets/img/Deliveroo-WebandMobile.jpg)
+![image](src/assets/img/Deliveroo-WebandMobile.jpg)
