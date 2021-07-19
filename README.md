@@ -1,4 +1,4 @@
-Deliveroo clone made at [Le Reacteur](https://www.lereacteur.io/) Bootcamp. 
+Deliveroo clone made at [Le Reacteur](https://www.lereacteur.io/) 
  
 3 screens are availables: Le Pain Quotidien desktop (empty basket), Le Pain Quotidien tablette with breakfast to order & the mobile version.
 
@@ -16,4 +16,4 @@ or
 2 > When installation is complete:
 `yarn start`
 
-# deliveroo
+[image](src/assets/img/Deliveroo-WebandMobile.jpg)
